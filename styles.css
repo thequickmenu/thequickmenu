@@ -1,4 +1,6 @@
 a {
+    color: black;
+    text-decoration: underline;
     overflow-wrap: break-word;
     word-wrap: break-word;
 }
@@ -36,9 +38,9 @@ img {
     font-size: 9px;
   }
     
-    .col-xs-4 {
-        line-height: 10px;
-    }
+  .col-xs-4 {
+    line-height: 10px;
+  }
 
  .jumbotron {
     padding: 0px;
